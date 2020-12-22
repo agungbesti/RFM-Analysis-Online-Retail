@@ -70,6 +70,7 @@
 
 - 1. Core - Your Best Customers
 > RFM Score : 222
+
 > Who They Are : Highly engaged customers who have bought the most recent, the most often, and generated the most revenue.
 
 
@@ -78,6 +79,7 @@
 
 - 2. Loyal - Your Most Loyal Customers
 > RFM Score : X2X
+
 > Who They Are : Customers who buy the most often from your store.
 
 
@@ -99,6 +101,7 @@
 - 3. Whales - Your Highest Paying Customers
 
 > RFM Score : XX2
+
 > Who They Are : Customers who have generated the most revenue for your store.
 
 
@@ -120,6 +123,7 @@
 - 4. Rookies - Your Newest Customers
 
 > RFM Score : 20X
+
 > Who They Are : First time buyers on your site.
 
 
@@ -141,6 +145,7 @@
 - 5. Slipping - Once Loyal, Now Gone
 
 > RFM Score : 00X
+
 > Who They Are : Great past customers who haven't bought in awhile.
 
 ![20](https://user-images.githubusercontent.com/35904444/102915805-f9c26200-44b4-11eb-99d5-f3b33a339d47.PNG)
@@ -161,6 +166,7 @@
 - 6. Regular - The customers having common behaviour across these metrics.
 
 > RFM Score: Remaining Scores
+
 > Who They Are: Customer who have average metrics across each RFM scores.
 
 
