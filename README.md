@@ -1,6 +1,4 @@
-# RFM-Analysis-Online-Retail (Project from DTS)
-
-## Information Obtained :
+# RFM-Analysis-Online-Retail
 ### Business Understanding
 - Problem : Only have basic customer data but want to know customer behaviour to plan marketing strategy accordingly
 
